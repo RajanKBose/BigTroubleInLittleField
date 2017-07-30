@@ -1,0 +1,22 @@
+Rajan Bose
+Amanda Nguyen
+Asma Fares 
+
+The app has basic interactions. Click the title screen, and you'll be introduced to the "messaging" activity. From there you can go to the map activity which shows your current location
+
+2) List of Features completed
+	Location Awareness and tracking
+	Basic UI for game
+	User interaction with the Messaging system
+
+3) List of Features not completed
+	Content Creation of the Puzzles
+		Puzzles need to be created
+	More User interaction with messaging system is needed
+
+4) Map tracking and Map tracking the user's location
+
+5) Title Page, About Activity, Messaging Activity
+
+6) MapActivity
+
